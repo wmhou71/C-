@@ -9,7 +9,7 @@ Homework Title:
 6. Inventory  
 7. Bike Simulation  
   
-Course Name: Couputer Programming and Application
+Course Name: Couputer Programming and Application  
 Course Date: 2011.2 ~ 2011.6  
 Student's Name: Wei-Ming HOU  
 Programming Language: C++  
